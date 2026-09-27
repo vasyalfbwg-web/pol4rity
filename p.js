@@ -50,7 +50,7 @@
       <figcaption>Imagen RM — tumor cerebral</figcaption>
     </figure>
     <figure>
-      <img src="https://i.ibb.co/9mMm5QKc/image.jpg" alt="Paciente">
+      <img src="https://i.ibb.co/spBpY8xb/image.jpg" alt="Paciente">
       <figcaption>Paciente — 7 meses</figcaption>
     </figure>
   </div>
