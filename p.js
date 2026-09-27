@@ -94,11 +94,11 @@
 
     <div class="photos">
       <figure>
-        <img src="https://i.ibb.co/Y4LRt7LD/IMG-20260927-082618-931.jpg" alt="Imagen diagnóstica">
+        <img src="https://i.ibb.co/qLryRMr0/image.jpg" alt="Imagen diagnóstica">
         <figcaption>Imagen diagnóstica — glioma hemisférico infantil</figcaption>
       </figure>
       <figure>
-        <img src="https://i.ibb.co/gbnbKkqm/IMG-20260927-082618-229.jpg" alt="Paciente">
+        <img src="https://i.ibb.co/spBpY8xb/image.jpg" alt="Paciente">
         <figcaption>Alejandro González Martín — 05/08/2026</figcaption>
       </figure>
     </div>
