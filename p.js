@@ -46,11 +46,11 @@
 
   <div class="photos">
     <figure>
-      <img src="https://i.ibb.co/Y4LRt7LD/IMG-20260927-082618-931.jpg" alt="Diagnóstico">
+      <img src="https://i.postimg.cc/MvMxHWFL/IMG-20260927-082618-931.jpg" alt="Diagnóstico">
       <figcaption>Imagen RM — tumor cerebral</figcaption>
     </figure>
     <figure>
-      <img src="https://i.ibb.co/gbnbKkqm/IMG-20260927-082618-229.jpg" alt="Paciente">
+      <img src="https://i.postimg.cc/3d47NKcc/IMG-20260927-082618-229.jpg" alt="Paciente">
       <figcaption>Paciente — 7 meses</figcaption>
     </figure>
   </div>
