@@ -46,7 +46,7 @@
 
   <div class="photos">
     <figure>
-      <img src="https://i.postimg.cc/MvMxHWFL/IMG-20260927-082618-931.jpg" alt="Diagnóstico">
+      <img src="https://i.ibb.co/6cWn4RWv/image.jpg" alt="Diagnóstico">
       <figcaption>Imagen RM — tumor cerebral</figcaption>
     </figure>
     <figure>
