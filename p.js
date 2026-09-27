@@ -94,7 +94,7 @@
 
     <div class="photos">
       <figure>
-        <img src="https://i.ibb.co/qLryRMr0/image.jpg" alt="Imagen diagnóstica">
+        <img src="https://raw.githubusercontent.com/vasyalfbwg-web/pol4rity/refs/heads/main/IMG_20260927_082618_931.jpg" alt="Imagen diagnóstica">
         <figcaption>Imagen diagnóstica — glioma hemisférico infantil</figcaption>
       </figure>
       <figure>
